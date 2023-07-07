@@ -11,7 +11,7 @@ function note(amount, pitch, time, note)
 end
 
 sound = "block.glass.place"
-amount = 100
+amount = 50
 print("Revving up!")
 note(amount, 1.5, 0.05, sound)
 note(amount, 1.75, 0.04, sound)
