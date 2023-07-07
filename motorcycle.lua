@@ -10,7 +10,7 @@ function note(amount, pitch, time, note)
 	end
 end
 
-sound = "block.glass.place"
+sound = "ui.button.click"
 amount = 50
 print("Revving up!")
 note(amount, 1.5, 0.05, sound)
