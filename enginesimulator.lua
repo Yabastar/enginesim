@@ -1,5 +1,5 @@
 print("Engine simulator 1.00")
 
-print("Type any of the following to simulate: \n\nMotorcycle\n\n"
+print("Type any of the following to simulate: \n\nMotorcycle\n\n")
 res = io.read()
 dofile(res .. ".lua")
